@@ -24,7 +24,7 @@
         </thead>
         <tbody>
         <tr>
-            <td>John</td>
+            <td>Nguyen Ba Thiet </td>
             <td>Doe</td>
             <td>john@example.com abc</td>
         </tr>
