@@ -24,9 +24,9 @@
         </thead>
         <tbody>
         <tr>
-            <td>Nguyen Ba Thiet </td>
-            <td>Doe</td>
-            <td>john@example.com abc</td>
+            <td>THIET </td>
+            <td>NGUYEN</td>
+            <td>bathiet98@gmail.com</td>
         </tr>
         <tr>
             <td>Mary</td>
