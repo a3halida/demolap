@@ -19,7 +19,7 @@
         <tr>
             <th>Firstname</th>
             <th>Lastname</th>
-            <th>Email</th>
+            <th>Email a</th>
         </tr>
         </thead>
         <tbody>
